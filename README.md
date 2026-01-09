@@ -115,9 +115,9 @@ Akshay More
 
 Java | Backend | QA & Automation
 
-LinkedIn: add link
+LinkedIn: linkedin.com/in/akshayvmore2003
 
-GitHub: add link
+GitHub: github.com/akshayvmore04
 
 📄 Note
 
